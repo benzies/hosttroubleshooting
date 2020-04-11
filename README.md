@@ -65,6 +65,7 @@ Apr 10 11:17:01 HoneyPot1 CRON[23052]: pam_unix(cron:session): session timeout f
 * Can't determine which password belongs to which host.
 * Possible password combinations.
 * MAKE SURE THIS STAYS PRIVATE!
+* Access externally > My Public IPv4 is: 121.45.50.104
 
     * qwertyuiop
     * mynoob
