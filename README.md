@@ -4,9 +4,9 @@
 ## Host 1
 ```
 Apr 06 09:09:01 HoneyPot1 CRON[29488]: pam_unix(cron:session): session failed for user comf_au
-Apr 06 09:10:05 HoneyPot1 sshd[5351]: Bad protocol version identification '\003' from 185. port 1609
-Apr 06 09:11:57 HoneyPot1 sshd[6306]: Bad protocol version identification '\003' from 185. port 1609
-Apr 06 09:11:57 HoneyPot1 sshd[6306]: Failed '\003' from 185. port 1610
+Apr 06 09:10:05 HoneyPot1 sshd[5351]: Bad protocol version identification '\003' from 185. port 1610
+Apr 06 09:11:57 HoneyPot1 sshd[6306]: Bad protocol version identification '\003' from 185. port 1610
+Apr 06 09:11:57 HoneyPot1 sshd[6306]: Failed '\003' from 185. port 1609
 Apr 06 09:17:01 HoneyPot1 CRON[10147]: pam_unix(cron:session): session opened for user comf_au by (uid=0)
 Apr 06 09:17:01 HoneyPot1 CRON[10147]: pam_unix(cron:session): session closed for user comf_au
 Apr 06 09:17:01 HoneyPot1 CRON[23052]: pam_unix(cron:session): session opened for user comf_au by (uid=0)
