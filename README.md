@@ -63,9 +63,9 @@ Apr 10 11:17:01 HoneyPot1 CRON[23052]: pam_unix(cron:session): session timeout f
 * Timeout unknown, still troubleshooting.
 * Consider rebuilding hosts.
 * Can't determine which password belongs to which host.
-* Possible password combinations.
 * MAKE SURE THIS STAYS PRIVATE!
-* Access externally > My Public IPv4 is: 121.45.50.104
+* Access externally > My Public IPv4 is: 121.45.43.123
+* Possible password combinations.
 
     * qwertyuiop
     * mynoob
@@ -78,3 +78,6 @@ Apr 10 11:17:01 HoneyPot1 CRON[23052]: pam_unix(cron:session): session timeout f
     * 1q2w3e4r5t
     * zxcvbnm
     * 1q2w3e
+
+
+* Seems like the login times have been lifted.  Not sure what policies affected that.
